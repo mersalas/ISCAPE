@@ -13,7 +13,7 @@ Packages required to run the notebooks:
 - [umap-learn 0.5.6](https://github.com/lmcinnes/umap)
 - [scikit-optimize 0.10.1](https://github.com/scikit-optimize/scikit-optimize)
 - [xgboost 1.7.6](https://github.com/dmlc/xgboost/tree/master)
-- [lightgbm 4.0.0.99](https://github.com/microsoft/LightGBM)
+- [lightgbm 4.0.0](https://github.com/microsoft/LightGBM)
 - [deepchem 2.7.1](https://github.com/deepchem/deepchem)
 - [deep-forest 0.1.7](https://github.com/LAMDA-NJU/Deep-Forest)
 - [shap 0.42.1](https://github.com/shap/shap/tree/master) 

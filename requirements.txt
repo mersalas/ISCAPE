@@ -1,0 +1,8 @@
+pyforest==1.1.0
+umap-learn==0.5.6
+scikit-optimize==0.10.1
+xgboost==1.7.6
+lightgbm==4.0.0
+deepchem==2.7.1
+deep-forest==0.1.7
+shap==0.42.1
